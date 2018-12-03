@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - PlayerMeleAttack
+  - PlayerMagicAttack
+  - Villager
+  - SacrificialAltair
+  - Enemy
+  - Portal
+  - Droppable
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Enemy
+  - Player
+  - Villager
+  - InvisibleVillagerWall
+  - Droppable
+  - Sword
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
